@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      {"text": "Berlin", "isCorrect": false},
+      {"text": "Madrid", "isCorrect": false},
+      {"text": "Paris", "isCorrect": true},
+      {"text": "Rome", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answers": [
+      {"text": "3", "isCorrect": false},
+      {"text": "4", "isCorrect": true},
+      {"text": "5", "isCorrect": false},
+      {"text": "6", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answers": [
+      {"text": "Earth", "isCorrect": false},
+      {"text": "Mars", "isCorrect": false},
+      {"text": "Jupiter", "isCorrect": true},
+      {"text": "Saturn", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+      {"text": "Charles Dickens", "isCorrect": false},
+      {"text": "Jane Austen", "isCorrect": false},
+      {"text": "William Shakespeare", "isCorrect": true},
+      {"text": "Mark Twain", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answers": [
+      {"text": "Ag", "isCorrect": false},
+      {"text": "Au", "isCorrect": true},
+      {"text": "Pb", "isCorrect": false},
+      {"text": "Fe", "isCorrect": false}
+    ]
+  }
+]
